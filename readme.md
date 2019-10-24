@@ -2,6 +2,8 @@
 
 ## EXTENSIONS
 
+![alt text](./extensions-1.png);
+
 #### _Auto Rename Tag_
 
 Auto rename paired HTML/XML tag
