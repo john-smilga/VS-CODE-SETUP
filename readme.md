@@ -61,6 +61,8 @@ Launch a development local Server with live reload feature for static & dynamic 
 
 Provides syntax highlighting and bracket matching for MDX (JSX in Markdown) files.
 
+![alt text](./extensions-2.png)
+
 #### _Prettier - Code formatter_
 
 VS Code plugin for prettier/prettier
