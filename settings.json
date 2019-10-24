@@ -1,0 +1,36 @@
+{
+  "editor.fontSize": 26,
+  "terminal.integrated.fontSize": 18,
+  "editor.tabSize": 1,
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": 0,
+  "editor.wordWrap": "on",
+  "files.autoSave": "off",
+  "editor.lineHeight": 0,
+  "liveServer.settings.port": 5500,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "left": {
+        "custom": {
+          "borderWidth": "0 0 0 3px",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px"
+        }
+      },
+      "right": {
+        "custom": {
+          "borderWidth": "0 3px 0 0",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px"
+        }
+      }
+    }
+  }
+}

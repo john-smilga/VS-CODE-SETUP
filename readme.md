@@ -1,0 +1,3 @@
+# VS CODE SETUP
+
+## EXTENSIONS
