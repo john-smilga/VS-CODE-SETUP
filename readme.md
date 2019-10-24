@@ -2,11 +2,11 @@
 
 ## EXTENSIONS
 
-_#### Auto Rename Tag_
+#### _Auto Rename Tag_
 
 Auto rename paired HTML/XML tag
 
-_#### Bracket Pair Colorizer_
+#### _Bracket Pair Colorizer_
 
 A customizable extension for colorizing matching brackets
 
