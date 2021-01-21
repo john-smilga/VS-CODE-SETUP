@@ -2,7 +2,7 @@
 
 ## EXTENSIONS
 
-![alt text](./extensions-1.png)
+![alt text](./1-ext.png)
 
 #### _Auto Rename Tag_
 
@@ -22,33 +22,6 @@ Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
   },
 ```
 
-#### _Highlight Matching Tag_
-
-Highlights matching closing or opening tag
-
-```javascript
-"highlight-matching-tag.styles": {
-    "opening": {
-      "left": {
-        "custom": {
-          "borderWidth": "0 0 0 3px",
-          "borderStyle": "solid",
-          "borderColor": "yellow",
-          "borderRadius": "5px"
-        }
-      },
-      "right": {
-        "custom": {
-          "borderWidth": "0 3px 0 0",
-          "borderStyle": "solid",
-          "borderColor": "yellow",
-          "borderRadius": "5px"
-        }
-      }
-    }
-  }
-```
-
 #### _indent-rainbow_
 
 Makes indentation easier to read
@@ -61,7 +34,7 @@ Launch a development local Server with live reload feature for static & dynamic 
 
 Provides syntax highlighting and bracket matching for MDX (JSX in Markdown) files.
 
-![alt text](./extensions-2.png)
+![alt text](./2-ext.png)
 
 #### _Prettier - Code formatter_
 
@@ -95,3 +68,9 @@ Provides intellisense for data, events, slots etc. in components.
 #### _vscode-styled-components_
 
 Syntax highlighting for styled-components
+
+![alt text](./3-dotenv-ext.png)
+
+#### DotENV
+
+Support for dotenv file syntax
