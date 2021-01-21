@@ -69,8 +69,8 @@ Provides intellisense for data, events, slots etc. in components.
 
 Syntax highlighting for styled-components
 
-![alt text](./3-dotenv-ext.png)
-
 #### DotENV
 
 Support for dotenv file syntax
+
+![alt text](./3-dotenv-ext.png)
