@@ -1,10 +1,9 @@
 {
   "editor.fontSize": 26,
-  "window.zoomLevel": 2,
   "files.autoSave": "off",
   "editor.tabSize": 1,
   "editor.wordWrap": "on",
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 26,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
@@ -16,5 +15,9 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.cursorBlinking": "expand"
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand",
+  "window.zoomLevel": 2
 }
